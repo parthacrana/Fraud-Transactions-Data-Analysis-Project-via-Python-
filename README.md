@@ -10,9 +10,13 @@ In the beginning stages of this personal project, I have had to clean the data a
 
 Making sure there were no null values, and if there were, adjust accordingly. 
 
-Formatting the date/time/serial numbers in proper format for each of the 100 transactions. 
+Formatting the date/time/amount/serial numbers in proper format for each of the 100 transactions. 
 
 I will keep updating this note, to keep you all informed.
 
 
 Goal of this project is to land an entry level data analyst position! Of course, feedback is welcomed! 
+
+Update 3.23.24 - Finally solved the problem of converting dtypes for a certain to another dtype. 
+                 ex. trying to convert 'amt' column from object to float64 dtype. 
+                 This was an obstacle for quite a while, but solved. 
