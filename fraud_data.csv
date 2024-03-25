@@ -1,0 +1,101 @@
+trans_time,merchant,category,amt,City,state,lat,long,city_pop,job,dob,trans_num,merch_lat,merch_long,is_fraud
+12:00 AM,"Heller, Gutmann and Zieme",grocery,107.23 ,Orient,WA,48.8878,-118.2105,149,Special educational needs teacher,6/21/1978,1f76529f8574734946361c461b024d99,49.159047,-118.186462,0
+12:00 AM,Lind-Buckridge,entertainment,220.11 ,Malad City,ID,42.1808,-112.262,4154,Nature conservation officer,1/19/1962,a1a22d70485983eac12b5b88dad1cf95,43.150704,-112.154481,0
+12:07 AM,Kiehn Inc,grocery,96.29 ,Grenada,CA,41.6125,-122.5258,589,Systems analyst,12/21/1945,413636e759663f264aae1819a4d4f231,41.65752,-122.230347,0
+12:09 AM,Beier-Hyatt,shopping,7.77 ,High Rolls Mountain Park,NM,32.9396,-105.8189,899,Naval architect,8/30/1967,8a6293af5ed278dea14448ded2685fea,32.863258,-106.520205,0
+12:21 AM,Bruen-Yost,misc,6.85 ,Freedom,WY,43.0172,-111.0292,471,Education officer  museum,8/2/1967,f3c43d336e92a44fc2fb67058d5949e3,43.753735,-111.454923,0
+12:22 AM,Kunze Inc,grocery,90.22 ,Honokaa,HI,20.0827,-155.488,4878,Physiotherapist,12/3/1966,95826e3caa9e0b905294c6dae985aec1,19.560013,-156.045889,0
+12:22 AM,"Nitzsche, Kessler and Wol",shopping,4.02 ,Valentine,NE,42.8062,-100.6215,4005,Network engineer,3/15/1945,20490f3f0966ce74b4aaba8dc2c4ed52,42.47559,-101.265846,0
+12:22 AM,"Kihn, Abernathy and Douglas",shopping,3.66 ,Westfir,OR,43.7575,-122.481,597,Forensic psychologist,5/19/1961,870c92b288a974a2faf1f24b05c27e33,44.278191,-121.815161,0
+12:31 AM,Ledner-Pfannerstill,gastransport,102.13 ,Thompson,UT,38.9999,-109.615,46,Surveyor  minerals,4/23/1987,47238da5b40d126c8abea40a857c7809,39.807313,-109.348294,0
+12:34 AM,Stracke-Lemke,grocery,83.07 ,Conway,WA,48.34,-122.3456,85,Research officer  political party,9/1/1984,9b7a0619dcc5c572dc134f2827ed5a6b,48.682111,-122.719904,0
+12:40 AM,Cummerata-Jones,gastransport,70.53 ,Athena,OR,45.8289,-118.4971,1302,Dealer,10/18/1976,7b91bd200c11c5cd24b43694e12b5bbc,46.043252,-117.962133,0
+12:41 AM,Huel-Langworth,misc,177.57 ,Thompson,UT,38.9999,-109.615,46,Surveyor  minerals,4/23/1987,048dc7fc7ae8efd51f59f7176e6a8bd7,38.419431,-109.380252,0
+12:46 AM,"Ferry, Lynch and Kautze",misc,2.76 ,San Jose,CA,37.3304,-121.7913,973849,Science writer,6/12/1955,70ca7fe41f09770d724a027152dcb9f0,37.548452,-121.536454,0
+12:49 AM,"Little, Gutmann and Lynch",shopping,83.52 ,Ravenna,NE,41.0233,-98.9041,2202,Solicitor  Scotland,6/21/1974,5f7aafc802c8acb5924041bca310040f,40.992141,-98.831582,0
+12:56 AM,"Swaniawski, Lowe and Robel",shopping,317.14 ,Parks,AZ,35.2563,-111.95,759,Geologist  engineering,3/28/1957,3fe3286b0ea3f8c8857ec2e3da17b853,35.268124,-112.682895,0
+12:56 AM,"Reichert, Huels and Hoppe",shopping,113.40 ,Fort Washakie,WY,43.0048,-108.8964,1645,Freight forwarder,2/26/1976,9d660a18154a3ba5fe869f373c6f819c,42.868965,-108.50335,0
+1:00 AM,Howe Lt,misc,218.71 ,Littleton,CO,39.5994,-105.0044,320420,Water engineer,7/31/1975,43204045928cb3449edc63078a75b48c,39.335171,-104.102882,0
+1:02 AM,Wolf Inc,grocery,89.11 ,Meadville,MO,39.7795,-93.3014,964,Tourist information centre manager,12/23/1974,1cb03ad950bab1ca74b02500644ec1ba,40.773306,-92.821257,0
+1:04 AM,Vandervort-Funk,grocery,50.68 ,Moab,UT,38.5677,-109.5271,9772,Location manager,11/24/1989,61861370b5c31b9c00fd949124944d7a,38.482541,-108.853856,0
+1:09 AM,Ledner-Pfannerstill,gastransport,90.54 ,Hawthorne,CA,33.9143,-118.3493,93193,Editor  magazine features,4/19/1995,295b782f9fa48f76f508179ec6412f9d,32.990285,-117.836803,0
+1:19 AM,"Schaefer, McGlynn and Bosco",gastransport,51.33 ,Manville,WY,42.73,-104.7024,241,Educational psychologist,12/16/1980,a8af4c635415817aaeea5cbbe380e010,42.508248,-105.34481,0
+1:22 AM,Fisher-Schowalte,shopping,226.33 ,June Lake,CA,37.7773,-119.0825,633,Health service manager,9/9/2027,208e003f309f9db37b3c40ddc9271908,36.819789,-119.670559,0
+1:23 AM,Medhurst PLC,shopping,215.99 ,Sixes,OR,42.825,-124.4409,217,Retail merchandiser,10/1/2028,e13482d8e24ed41362ff84bb9f100623,42.988724,-123.904978,0
+1:23 AM,Kerluke Inc,misc,1.47 ,Holstein,NE,40.4542,-98.6538,331,Telecommunications researcher,8/19/1950,6569a85a160476c677bf9a4c2da40cfd,41.14486,-99.38762,0
+1:23 AM,Bauch-Rayno,grocery,122.05 ,Westerville,NE,41.4193,-99.3844,73,Product designer,2/10/1935,d83aa7370cef2c7a209118f313d0b360,41.609064,-99.650276,0
+1:34 AM,Hills-Olson,grocery,27.03 ,Ballwin,MO,38.577,-90.5255,92608,Engineer  communications,7/26/2001,011f7fc2db063dc3f63219a76e052ace,38.984909,-90.842219,0
+1:36 AM,Durgan-Aue,misc,23.80 ,Fields Landing,CA,40.7268,-124.2174,276,Scientist  audiological,5/6/2029,98fec127a1545ec4dad787e5326bd374,40.110823,-124.429537,0
+1:41 AM,Pacocha-Bauch,shopping,2.10 ,Grenada,CA,41.6125,-122.5258,589,Systems analyst,12/21/1945,53fb041938a6e239a2e1679d27a7f9c2,41.096733,-122.623454,0
+1:50 AM,"Reilly, Heaney and Cole",gastransport,67.91 ,Fields Landing,CA,40.7268,-124.2174,276,Scientist  audiological,5/6/2029,8e364131ffb75a95c9a04b304c9994e4,41.137569,-123.63216,0
+2:06 AM,Bradtke PLC,grocery,78.13 ,Louisiana,MO,39.4336,-91.0664,4593,Teacher  early years/pre,11/11/1940,e46a01d459665d3466b3a2148eb80f4e,40.247129,-91.699005,0
+2:08 AM,"Zieme, Bode and Dooley",gastransport,52.67 ,Kansas City,MO,38.9621,-94.5959,545147,Counsellor,11/18/1987,29768857d3597be571bce4497a48c735,39.662816,-93.712244,0
+2:08 AM,Hills-Witting,shopping,2.11 ,Mesa,ID,44.6255,-116.4493,129,Cartographer,12/15/1965,3749d51cb61d34bcaae08fcbee53fceb,44.710102,-117.229968,0
+2:12 AM,"Bernhard, Grant and Langworth",shopping,1.42 ,Westerville,NE,41.4193,-99.3844,73,Product designer,2/10/1935,0020b02e5638ee80c7176007e1b483fa,40.790587,-99.011834,0
+2:12 AM,Lockman Lt,grocery,104.08 ,Lonetree,WY,41.0552,-110.1603,49,Research scientist (physical sciences),7/5/1981,991f851c15545feaa5c0c90e264a66a3,41.677942,-110.829354,0
+2:13 AM,Harber Inc,gastransport,39.98 ,Centerview,MO,38.7897,-93.8702,2368,Electronics engineer,7/17/1989,f8ab97ed82e0669c50d3d8a60baf9c64,38.995701,-93.569356,0
+2:14 AM,Bauch-Rayno,grocery,192.82 ,Colorado Springs,CO,38.8881,-104.6556,525713,Museum/gallery exhibitions officer,5/9/1992,3dcdb9b61cc3770b9c8b78818173e6d6,39.299824,-103.854765,0
+2:20 AM,"Kerluke, Kertzmann and Wiz",misc,6.37 ,Hawthorne,CA,33.9143,-118.3493,93193,Editor  magazine features,4/19/1995,bcff0b6c116a2ed80b212aa3acb07195,34.108257,-117.549012,0
+2:21 AM,"Johnston, Nikolaus and Maggio",grocery,41.01 ,Blairsden-Graeagle,CA,39.8127,-120.6405,1725,Chartered legal executive (England and Wales),5/27/1967,ff342d2dad68412cbc24eb27b2370291,39.949197,-119.792299,0
+2:26 AM,Torp-Labadie,gastransport,49.53 ,Freedom,WY,43.0172,-111.0292,471,Education officer  museum,8/2/1967,c09831d3ebf12b67982f193d03162974,43.038723,-111.821595,0
+2:28 AM,Doyle Lt,grocery,157.07 ,Cardwell,MO,36.0434,-90.2907,1120,Television floor manager,4/17/1957,2718171b5be46962b081ee742ed3cd42,35.632995,-89.589641,0
+2:31 AM,McDermott-Rice,misc,13.67 ,Kansas City,MO,38.9621,-94.5959,545147,Counsellor,11/18/1987,49b8ff92b52599bc8c265d0b8d008593,38.058492,-94.687196,0
+2:32 AM,Spinka Inc,grocery,57.57 ,Phoenix,AZ,33.5623,-112.0559,1312922,Contractor,10/24/1981,0bffbd021d632206028c981630007c12,32.635757,-112.195886,0
+2:33 AM,McGlynn-Jaskolski,misc,99.08 ,Newhall,CA,34.3795,-118.523,34882,Health physicist,4/25/1971,56821cb1d8c2c3d57299cc01bfd2e071,34.370236,-118.195791,0
+2:37 AM,Schmitt Lt,misc,29.19 ,Tomales,CA,38.2427,-122.9145,337,Occupational psychologist,7/5/1954,d51dc2a26160f1425df51982c6d05257,38.882246,-122.050228,0
+2:42 AM,Donnelly PLC,misc,185.04 ,Redford,MO,37.3272,-91.0243,241,Investment analyst,10/27/1974,0a630c19d0ef93f9d262d0ef9bff9358,36.518512,-91.363405,0
+2:42 AM,"Kutch, Hermiston and Farrell",gastransport,48.66 ,Weeping Water,NE,40.8731,-96.1528,1517,Dealer,11/8/1951,61efe8834c23dea4a334ea06a4dc293d,41.066297,-95.412102,0
+2:46 AM,Torp-Lemke,misc,3.32 ,Portland,OR,45.5303,-122.7033,841711,Engineer  building services,4/4/1963,900f6896c69d904420bec5e52cf49a95,44.727585,-123.282623,0
+2:54 AM,Kassulke PLC,shopping,1055.47 ,Iliff,CO,40.7692,-103.0968,648,Community arts worker,9/21/1969,adca67d0a40b26fb8afeccbae31b7828,39.940564,-103.528231,0
+2:56 AM,Dach-Nade,misc,16.65 ,Burlington,WA,48.4786,-122.3345,14871,Public house manager,3/10/1974,ffdaa290d0841d7babaf495aab382031,49.073601,-122.924793,0
+2:56 AM,Hills-Witting,shopping,8.70 ,Wales,AK,64.7556,-165.6723,145,Administrator  education,11/9/1939,f72573a40026254460e02d05ae72672a,65.023497,-166.148374,0
+3:01 AM,"Bins, Balistreri and Beatty",shopping,3.19 ,Mound City,MO,40.1362,-95.2138,1631,Architect,1/20/1953,20c1cf41b472000887395508c5796354,39.299707,-95.975808,0
+3:07 AM,Miller-Hauck,grocery,202.71 ,Burlington,WA,48.4786,-122.3345,14871,Public house manager,3/10/1974,4dde02d07e676d0df3e90565c242a2ec,49.221275,-123.32192,0
+3:12 AM,"Rohan, White and Aufderh",misc,8.68 ,Greenview,CA,41.5403,-122.9366,308,Call centre manager,9/20/1958,6d76dfcd39a8262fa7b8e723e0c6cf7f,41.013729,-122.403496,0
+3:12 AM,DuBuque LLC,grocery,176.57 ,Lakeport,CA,39.047,-122.9328,11256,Podiatrist,10/18/1972,26db4a0f3aa2089bd1823652cba9ece1,38.76254,-122.339375,0
+3:12 AM,Bins-Rice,gastransport,49.10 ,Westerville,NE,41.4193,-99.3844,73,Product designer,2/10/1935,0e83bc0fc886293d57759db709b80962,40.722191,-98.680216,0
+3:12 AM,"Cormier, Stracke and Thiel",entertainment,3.14 ,Honokaa,HI,20.0827,-155.488,4878,Physiotherapist,12/3/1966,cb117fff5645082a2525119c1eafec53,20.995398,-155.369362,0
+3:15 AM,"Gottlieb, Considine and Schultz",shopping,6.32 ,Llano,NM,36.1486,-105.6648,247,Architectural technologist,10/24/1961,4c17683e079020ad3865092205f92d81,36.867679,-105.042958,0
+3:18 AM,"Jenkins, Hauck and Friesen",gastransport,44.68 ,Carlotta,CA,40.507,-123.9743,1139,Therapist  occupational,1/15/1951,12ef4798422ce322c149339afd3072c7,40.459474,-124.214281,0
+3:24 AM,Cummerata-Jones,gastransport,69.30 ,Ballwin,MO,38.577,-90.5255,92608,Engineer  communications,7/26/2001,6736a2032d3a9f612176c57e07480c5b,38.166105,-90.912756,0
+3:37 AM,"Goldner, Kovacek and Abbott",grocery,111.81 ,Dumont,CO,39.7532,-105.6356,565,Mental health nurse,8/27/1978,3dedb528e11d51102e96dd450a82ba0a,40.417719,-105.38411,0
+3:45 AM,"Romaguera, Cruickshank and Greenholt",shopping,511.09 ,Grenada,CA,41.6125,-122.5258,589,Systems analyst,12/21/1945,46397744ae13d2c0843e8fba6f164379,42.412743,-121.617857,0
+3:49 AM,Kilback LLC,grocery,68.96 ,Fullerton,NE,41.366,-98.0054,1749,Surveyor  mining,5/7/1973,b2820a9708d41515e2a1590d3cce80d4,41.182138,-98.751918,0
+3:54 AM,VonRueden Group,grocery,105.38 ,North Loup,NE,41.4972,-98.7858,509,Nurse  children's,9/15/1980,dc1c09ff158f17c023c59c9d9e0d196f,41.271599,-99.630652,0
+3:56 AM,"Haley, Jewess and Bechtel",shopping,2.49 ,Browning,MO,40.029,-93.1607,602,Cytogeneticist,7/14/1954,d5b3a6e6afe4ff2c96b5fe0355ff8b55,39.052625,-92.428684,0
+4:00 AM,Hudson-Ratke,grocery,122.86 ,Kent,OR,45.0838,-120.6649,60,Museum education officer,4/3/1942,b48cee6edd7f798cb5d4080b82e4a1fe,44.189625,-121.655209,0
+4:03 AM,Brekke and Sons,gastransport,84.58 ,Holstein,NE,40.4542,-98.6538,331,Telecommunications researcher,8/19/1950,946ab3d0eaf1a37f11668ae3c1d55a2c,40.310753,-99.581023,0
+4:08 AM,Terry-Huel,shopping,9.52 ,Mound City,MO,40.1362,-95.2138,1631,Architect,1/20/1953,771a63aaf5210acfbf5ac2403aad30af,39.790646,-95.043146,0
+4:14 AM,Eichmann-Russel,misc,35.00 ,Fiddletown,CA,38.5234,-120.6763,832,Immigration officer,5/19/1987,6f2eff909c82577af2cdb75e5b9a6232,38.370985,-121.358847,0
+4:15 AM,"Heller, Gutmann and Zieme",grocery,203.26 ,Huntington Beach,CA,33.6773,-118.0051,190249,Therapist  horticultural,9/17/1976,b34814818c2ecd0f86214bf1a6dc1a64,33.010001,-117.705689,0
+4:23 AM,Bailey-Mo,grocery,123.90 ,Blairsden-Graeagle,CA,39.8127,-120.6405,1725,Chartered legal executive (England and Wales),5/27/1967,2a98efe0b90779ab29581f3553d87739,39.229442,-120.493701,0
+4:26 AM,Corwin-Collins,gastransport,50.16 ,Centerview,MO,38.7897,-93.8702,2368,Electronics engineer,7/17/1989,e95e53d1c091289a54cde0414762751d,38.964313,-93.497747,0
+4:29 AM,Balistreri-Nade,misc,22.88 ,Tomales,CA,38.2427,-122.9145,337,Occupational psychologist,7/5/1954,2fcbde131cff833751dde53da54da6da,39.060101,-121.969417,0
+4:32 AM,"Rippin, Kub and Mann",misc,6.00 ,Manville,WY,42.73,-104.7024,241,Educational psychologist,12/16/1980,28528ab2c10390c3b31e401c44365ab5,42.770247,-103.945514,0
+4:40 AM,"Casper, Hand and Zul",grocery,175.51 ,Newhall,CA,34.3795,-118.523,34882,Health physicist,4/25/1971,9f5a130b4ae9efb87867ce8dc878f412,33.731713,-119.507821,0
+4:43 AM,Kutch LLC,gastransport,69.64 ,Grenada,CA,41.6125,-122.5258,589,Systems analyst,12/21/1945,23cd7287ce2a70d9754cc0f1263ee99f,41.673903,-123.51086,0
+4:52 AM,O'Keefe-Hudson,grocery,209.89 ,Phoenix,AZ,33.5623,-112.0559,1312922,Contractor,10/24/1981,e6528b0d35f36cb29cdca6936aaf1107,33.133991,-111.460639,0
+4:55 AM,McDermott-Weimann,grocery,236.18 ,Meridian,ID,43.6498,-116.4306,84106,Intelligence analyst,2/11/1971,f5afac4b2726300db61d131c65db187d,44.404099,-115.887498,0
+4:55 AM,"Connelly, Reichert and Fritsch",gastransport,57.36 ,Centerview,MO,38.7897,-93.8702,2368,Electronics engineer,7/17/1989,bc763a7872b62564b0ebb0a94e2a4f26,38.508607,-93.603368,0
+4:56 AM,Cummerata-Jones,gastransport,55.99 ,Glendale,CA,34.1556,-118.2322,172817,Advertising account planner,7/30/1982,011d132dc3afd3480fd36cb5f3d2b09b,33.778002,-119.013484,0
+4:57 AM,"Streich, Hansen and Veum",gastransport,61.39 ,Orient,WA,48.8878,-118.2105,149,Special educational needs teacher,6/21/1978,9825a8292f6b25bb7d54b253bb3336f6,48.394218,-117.363563,0
+4:59 AM,"Reichert, Shanahan and Hayes",shopping,78.56 ,Alva,WY,44.6873,-104.4414,110,Administrator  local government,5/16/1973,d01846bf25a4eedf3366527b3b79b4ff,44.678642,-104.128312,0
+5:02 AM,Dickinson-Rempel,misc,16.85 ,Blairstown,MO,38.5319,-93.9221,467,Agricultural consultant,5/27/1950,021e1cf84aec0f63646565e38cb756ec,39.04432,-94.698256,0
+5:07 AM,"Wiza, Schaden and Stark",misc,45.40 ,Laguna Hills,CA,33.615,-117.7114,45303,Sales executive,12/22/1969,987db990882b791e835e5b589cb84abc,33.916129,-117.095988,0
+5:14 AM,Spinka Inc,grocery,48.31 ,Dumont,CO,39.7532,-105.6356,565,Mental health nurse,8/27/1978,23a79ef1e368a318c1db57a666d024d6,40.504011,-106.561224,0
+5:16 AM,"Schaefer, Maggio and Daugherty",gastransport,81.25 ,Albuquerque,NM,35.0561,-106.5506,641349,Charity officer,1/24/1967,d534c24b383c65487d128d525c8d6b91,35.977961,-107.434031,0
+5:19 AM,Bailey-Mo,grocery,193.10 ,Azusa,CA,34.1248,-117.9031,59705,Civil Service fast streamer,6/23/1983,6c8edd752c68cb18b781380b5487e5cd,33.437683,-117.678285,0
+5:36 AM,Sporer Inc,gastransport,51.84 ,Gardiner,OR,43.7857,-124.1437,260,Engineer  maintenance,9/1/1956,9c47babfde0e067a090c5cea65e58835,44.047555,-123.800294,0
+5:36 AM,Prohaska-Murray,gastransport,46.66 ,Mound City,MO,40.1362,-95.2138,1631,Architect,1/20/1953,b8e3100c6bccb605dd98a848e2c76eda,41.071606,-94.999602,0
+5:39 AM,Bartoletti-Wunsch,gastransport,56.65 ,Blairsden-Graeagle,CA,39.8127,-120.6405,1725,Chartered legal executive (England and Wales),5/27/1967,c198762abf80d696e56eaa0646632488,39.25212,-120.809112,0
+5:41 AM,O'Keefe-Hudson,grocery,175.26 ,Rock Springs,WY,41.606,-109.23,27971,Music therapist,8/1/1984,ed00708f7af7c1818bc14f4dd36036d4,42.25722,-109.312091,0
+5:44 AM,Heller-Langosh,gastransport,62.62 ,Paauilo,HI,20.0271,-155.3697,1490,Scientist  research (maths),4/13/1991,4e14f0bd0481beb88caa1dc4422ed8e6,19.209212,-155.16214,0
+5:50 AM,Emard Inc,gastransport,32.60 ,Browning,MO,40.029,-93.1607,602,Cytogeneticist,7/14/1954,86cad0e7682a85fa6418dde1a0a33a44,39.335685,-92.982647,0
+5:52 AM,Vandervort-Funk,grocery,83.38 ,Eugene,OR,44.0385,-123.0614,191096,Scientist  physiological,4/6/1964,6e012022d698a9136bfac48be9b3d050,43.659954,-123.848539,0
+5:56 AM,"Adams, Kovacek and Kuhlman",grocery,74.85 ,Daly City,CA,37.6787,-122.478,107941,Buyer  industrial,10/4/1991,5674d7c6891a3d5e9a9fa208730057a4,38.544098,-123.311607,0
+6:15 AM,Pacocha-Bauch,shopping,1.95 ,Mendon,UT,41.71,-111.9817,2078,Scientist  audiological,6/13/1963,dac965dc4f91c065fe36327431ead52a,41.930677,-111.044483,0
+6:20 AM,Hudson-Ratke,grocery,199.55 ,Littleton,CO,39.5994,-105.0044,320420,Water engineer,7/31/1975,a5c13edd756f36c026630d13672974bd,38.619691,-105.498059,0
+6:24 AM,Harber Inc,gastransport,94.48 ,Orient,WA,48.8878,-118.2105,149,Special educational needs teacher,6/21/1978,c9235f76ecb45e67372d79ecac2ffb37,49.513555,-117.819653,0
+6:25 AM,Berge LLC,gastransport,79.39 ,Mesa,ID,44.6255,-116.4493,129,Cartographer,12/15/1965,606b05a976ee2bca7323d6afc85e63ce,43.673602,-116.40606,0
+6:25 AM,Pagac LLC,shopping,5.05 ,Powell Butte,OR,44.2415,-121.0113,2016,Local government officer,12/25/1953,d44f496e9daab912914ac9513b038df2,44.245679,-121.333658,0
+6:32 AM,Erdman-Kertzmann,gastransport,69.72 ,Utica,MO,39.7417,-93.6289,271,Land/geomatics surveyor,4/18/1972,6ed5502e8464efee2e341959617bb656,39.053407,-93.972916,0
